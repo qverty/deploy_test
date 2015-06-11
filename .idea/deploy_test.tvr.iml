@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/anahkiasen/rocketeer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/andres-montanez/magallanes" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/d11wtq/boris" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/config" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/console" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/container" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/events" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/log" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/remote" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/illuminate/support" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/kzykhys/parallel" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/patchwork/utf8" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/valorin/deploy" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/phpseclib/phpseclib" />
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/events" />
+          <root url="file://$MODULE_DIR$/vendor/valorin/deploy" />
+          <root url="file://$MODULE_DIR$/vendor/d11wtq/boris" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/filesystem" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/console" />
+          <root url="file://$MODULE_DIR$/vendor/anahkiasen/rocketeer" />
+          <root url="file://$MODULE_DIR$/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/vendor/patchwork/utf8" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/remote" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/config" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/log" />
+          <root url="file://$MODULE_DIR$/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/container" />
+          <root url="file://$MODULE_DIR$/vendor/andres-montanez/magallanes" />
+          <root url="file://$MODULE_DIR$/vendor/kzykhys/parallel" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/support" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/phpseclib/phpseclib" />
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/events" />
+          <root url="file://$MODULE_DIR$/vendor/valorin/deploy" />
+          <root url="file://$MODULE_DIR$/vendor/d11wtq/boris" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/filesystem" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/console" />
+          <root url="file://$MODULE_DIR$/vendor/anahkiasen/rocketeer" />
+          <root url="file://$MODULE_DIR$/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/vendor/patchwork/utf8" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/remote" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/config" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/log" />
+          <root url="file://$MODULE_DIR$/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/container" />
+          <root url="file://$MODULE_DIR$/vendor/andres-montanez/magallanes" />
+          <root url="file://$MODULE_DIR$/vendor/kzykhys/parallel" />
+          <root url="file://$MODULE_DIR$/vendor/illuminate/support" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

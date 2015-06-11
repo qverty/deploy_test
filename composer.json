@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "anahkiasen/rocketeer": "^2.2",
+    "andres-montanez/magallanes": "1.0.6",
+    "valorin/deploy": "~1.2"
+  }
+}
